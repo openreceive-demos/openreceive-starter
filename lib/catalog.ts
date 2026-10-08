@@ -6,4 +6,7 @@ export const product = {
   name: "Demo sticker",
   price: "1.00",
   currency: "USD",
+  description:
+    "A glossy die-cut vinyl sticker with a Lightning bolt. Weatherproof and sized for a laptop lid or water bottle.",
+  image: "/sticker.png",
 } as const;
